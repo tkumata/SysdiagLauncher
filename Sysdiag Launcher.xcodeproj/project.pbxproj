@@ -15,6 +15,7 @@
 		890E8F781B639038006A77CE /* Sysdiag_LauncherTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 890E8F771B639038006A77CE /* Sysdiag_LauncherTests.m */; };
 		890E8F831B639038006A77CE /* Sysdiag_LauncherUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 890E8F821B639038006A77CE /* Sysdiag_LauncherUITests.m */; };
 		897683D91B676F7500246E02 /* tri-mark.png in Resources */ = {isa = PBXBuildFile; fileRef = 897683D81B676F7500246E02 /* tri-mark.png */; };
+		89F199A81C44A793009F1869 /* Screen Shot.png in Resources */ = {isa = PBXBuildFile; fileRef = 89F199A71C44A793009F1869 /* Screen Shot.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		890E8F841B639038006A77CE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		897683D81B676F7500246E02 /* tri-mark.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "tri-mark.png"; sourceTree = "<group>"; };
 		89B661441B74C6DD003A5ADB /* Sysdiag Launcher.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "Sysdiag Launcher.entitlements"; sourceTree = "<group>"; };
+		89F199A71C44A793009F1869 /* Screen Shot.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Screen Shot.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,6 +83,7 @@
 		890E8F541B639038006A77CE = {
 			isa = PBXGroup;
 			children = (
+				89F199A71C44A793009F1869 /* Screen Shot.png */,
 				890E8F5F1B639038006A77CE /* Sysdiag Launcher */,
 				890E8F761B639038006A77CE /* Sysdiag LauncherTests */,
 				890E8F811B639038006A77CE /* Sysdiag LauncherUITests */,
@@ -249,6 +252,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				89F199A81C44A793009F1869 /* Screen Shot.png in Resources */,
 				897683D91B676F7500246E02 /* tri-mark.png in Resources */,
 				890E8F6A1B639038006A77CE /* Assets.xcassets in Resources */,
 				890E8F6D1B639038006A77CE /* MainMenu.xib in Resources */,

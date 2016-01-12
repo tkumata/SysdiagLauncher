@@ -11,6 +11,8 @@ AppleSeed な人にはお馴染みの sysdiagnode コマンドやその他ログ
 * Screenshot
 * Quicktime で画面キャプチャ
 
+![サンプル](./Screen Shot.png "サンプル")
+
 ## Usage
 途中
 
